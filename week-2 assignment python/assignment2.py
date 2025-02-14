@@ -11,7 +11,5 @@ for num in numbers:
     print(num)
 
 #qno.2
-password= input("Enter your password: ")
-if password>6:
-    print("Weak")
+
     
